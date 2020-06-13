@@ -2,13 +2,13 @@
   "name": "hello_watch_face",
   "version": "0.1.0",
   "private": true,
-  "license": "Apache",
+  "license": "Apache License, Version 2.0",
   "devDependencies": {
     "@fitbit/sdk": "~4.1.0",
     "@fitbit/sdk-cli": "^1.7.1"
   },
   "fitbit": {
-    "appUUID": "07e806ee-9317-4c35-80aa-b40b58a2ebcf",
+    "appUUID": "2f8dd8be-3dda-41aa-9225-4625b6a38e08",
     "appType": "clockface",
     "appDisplayName": "Hello Watch Face",
     "iconFile": "resources/icon.png",
